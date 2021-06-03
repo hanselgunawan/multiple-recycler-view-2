@@ -25,6 +25,7 @@
         tools:text="MORE" />
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_horizontal"
         android:layout_width="match_parent"
         android:layout_height="160dp"
         android:orientation="horizontal"
